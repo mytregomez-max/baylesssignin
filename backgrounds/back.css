@@ -1,0 +1,15 @@
+button {
+  cursor: pointer;
+}
+button:hover {
+  background-color: lime;
+}
+h1 {
+  color: white;
+}
+p {
+  color: white;
+}
+body {
+  color: blue;
+}
